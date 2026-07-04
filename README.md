@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tehreem916/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tehreem916/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/tehreem916/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tehreem916/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tehreem916/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tehreem916/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/tehreem916/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/tehreem916/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/tehreem916/leetcode-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
