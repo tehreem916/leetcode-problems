@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/tehreem916/leetcode-problems/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/tehreem916/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/tehreem916/leetcode-problems/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
