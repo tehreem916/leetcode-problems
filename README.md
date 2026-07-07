@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/tehreem916/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/tehreem916/leetcode-problems/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
