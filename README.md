@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/tehreem916/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Simulation
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tehreem916/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -74,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
