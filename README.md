@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tehreem916/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tehreem916/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/tehreem916/leetcode-problems/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/tehreem916/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/tehreem916/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tehreem916/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/tehreem916/leetcode-problems/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
+| [2418-sort-the-people](https://github.com/tehreem916/leetcode-problems/tree/master/2418-sort-the-people) |
 ## String Matching
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tehreem916/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/tehreem916/leetcode-problems/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
 | ------- |
