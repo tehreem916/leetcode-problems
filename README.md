@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tehreem916/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tehreem916/leetcode-problems/tree/master/0796-rotate-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1768-merge-strings-alternately](https://github.com/tehreem916/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tehreem916/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Stack
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
