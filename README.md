@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tehreem916/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tehreem916/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tehreem916/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/tehreem916/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/tehreem916/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
