@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tehreem916/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tehreem916/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tehreem916/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tehreem916/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tehreem916/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/tehreem916/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tehreem916/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tehreem916/leetcode-problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tehreem916/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/tehreem916/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
