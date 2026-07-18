@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tehreem916/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tehreem916/leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/tehreem916/leetcode-problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/tehreem916/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tehreem916/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tehreem916/leetcode-problems/tree/master/0392-is-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/tehreem916/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tehreem916/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tehreem916/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tehreem916/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tehreem916/leetcode-problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
