@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/tehreem916/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/tehreem916/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tehreem916/leetcode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/tehreem916/leetcode-problems/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tehreem916/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/tehreem916/leetcode-problems/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tehreem916/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/tehreem916/leetcode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
