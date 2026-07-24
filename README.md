@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/tehreem916/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/tehreem916/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/tehreem916/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tehreem916/leetcode-problems/tree/master/0796-rotate-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tehreem916/leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tehreem916/leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tehreem916/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/tehreem916/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/tehreem916/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tehreem916/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tehreem916/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
