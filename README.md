@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/tehreem916/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/tehreem916/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/tehreem916/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
+| [0713-subarray-product-less-than-k](https://github.com/tehreem916/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tehreem916/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tehreem916/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/tehreem916/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tehreem916/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Rolling Hash
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tehreem916/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/tehreem916/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
