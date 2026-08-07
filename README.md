@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/tehreem916/leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tehreem916/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tehreem916/leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
