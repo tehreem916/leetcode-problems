@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tehreem916/leetcode-problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/tehreem916/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/tehreem916/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tehreem916/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/tehreem916/leetcode-problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/tehreem916/leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/tehreem916/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
