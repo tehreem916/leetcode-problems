@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tehreem916/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tehreem916/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1370-increasing-decreasing-string](https://github.com/tehreem916/leetcode-problems/tree/master/1370-increasing-decreasing-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tehreem916/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tehreem916/leetcode-problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tehreem916/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tehreem916/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tehreem916/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/tehreem916/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
