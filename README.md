@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tehreem916/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/tehreem916/leetcode-problems/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/tehreem916/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/tehreem916/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/tehreem916/leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0905-sort-array-by-parity](https://github.com/tehreem916/leetcode-problems/tree/master/0905-sort-array-by-parity) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tehreem916/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tehreem916/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/tehreem916/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/tehreem916/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tehreem916/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tehreem916/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
