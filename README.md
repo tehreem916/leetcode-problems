@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tehreem916/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/tehreem916/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/tehreem916/leetcode-problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/tehreem916/leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tehreem916/leetcode-problems/tree/master/0796-rotate-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/tehreem916/leetcode-problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tehreem916/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1754-largest-merge-of-two-strings](https://github.com/tehreem916/leetcode-problems/tree/master/1754-largest-merge-of-two-strings) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tehreem916/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/tehreem916/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/tehreem916/leetcode-problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
