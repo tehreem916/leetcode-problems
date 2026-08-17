@@ -94,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tehreem916/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tehreem916/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tehreem916/leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tehreem916/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/tehreem916/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tehreem916/leetcode-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tehreem916/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/tehreem916/leetcode-problems/tree/master/2418-sort-the-people) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tehreem916/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
