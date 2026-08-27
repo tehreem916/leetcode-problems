@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tehreem916/leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tehreem916/leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/tehreem916/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1472-design-browser-history](https://github.com/tehreem916/leetcode-problems/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/tehreem916/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tehreem916/leetcode-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tehreem916/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tehreem916/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tehreem916/leetcode-problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/tehreem916/leetcode-problems/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/tehreem916/leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/tehreem916/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/tehreem916/leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/tehreem916/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/tehreem916/leetcode-problems/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tehreem916/leetcode-problems/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/tehreem916/leetcode-problems/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
@@ -311,9 +315,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/tehreem916/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/tehreem916/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/tehreem916/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/tehreem916/leetcode-problems/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tehreem916/leetcode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tehreem916/leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/tehreem916/leetcode-problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
