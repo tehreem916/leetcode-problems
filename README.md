@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tehreem916/leetcode-problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tehreem916/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/tehreem916/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tehreem916/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tehreem916/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/tehreem916/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tehreem916/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tehreem916/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/tehreem916/leetcode-problems/tree/master/0141-linked-list-cycle) |
